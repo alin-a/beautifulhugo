@@ -103,7 +103,7 @@ div.panel-body a.list-group-item.view-all {
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #007cc0;
 }
 img::selection {
   color: white;
@@ -137,7 +137,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
+  background: #62c5e3;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -151,14 +151,14 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  color: #f5f5f5;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #007cc0;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -360,7 +360,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #007cc0;
 }
 
 .post-preview .post-title {
